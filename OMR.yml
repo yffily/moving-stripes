@@ -1,0 +1,11 @@
+name: OMR
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - jupyter=1
+  - numpy=2
+  - pandas=2
+  - openpyxl=3
+  - opencv=4
+  - ffmpeg=6
